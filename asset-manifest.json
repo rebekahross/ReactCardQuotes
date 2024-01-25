@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactCardQuotes/static/css/main.3dded1f3.css",
+    "main.js": "/ReactCardQuotes/static/js/main.9036e1a3.js",
+    "static/js/787.38f16daf.chunk.js": "/ReactCardQuotes/static/js/787.38f16daf.chunk.js",
+    "index.html": "/ReactCardQuotes/index.html",
+    "main.3dded1f3.css.map": "/ReactCardQuotes/static/css/main.3dded1f3.css.map",
+    "main.9036e1a3.js.map": "/ReactCardQuotes/static/js/main.9036e1a3.js.map",
+    "787.38f16daf.chunk.js.map": "/ReactCardQuotes/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dded1f3.css",
+    "static/js/main.9036e1a3.js"
+  ]
+}
