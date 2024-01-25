@@ -1,13 +1,69 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 40px;
+  height: 55px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.fullApp {
+  margin: 25px;
+}
+
+/* .quotes {
+} */
+
+.quote-card {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  /* font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif; */
+  font-size: 16px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 1rem;
+  background-color: #cbe0ea;
+  font-weight: 400;
+}
+
+.quote {
+  margin: 10px;
+}
+
+.quote-reference {
+  text-align: right;
+  margin-right: 30px;
+  font-style: italic;
+  font-size: 14px;
+}
+
+.tab {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: grey;
+  border: none;
+  background-color: inherit;
+  font-weight: 600;
+  width: 30%;
+}
+
+.active-tab {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  width: 30%;
+  border-bottom: 3px solid #007ca3;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: inherit;
+  color: black;
+  font-weight: 600;
+}
+
+.tabs {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  margin-bottom: 30px;
+  /* align-items: center; */
 }
